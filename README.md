@@ -1,5 +1,5 @@
-Team DB:
-Nguyễn Duy Mạnh
-Đoàn Việt Anh
-Hoàng Nguyên Đức
-Hà Quang Huy
+# Team DB:
+### Nguyễn Duy Mạnh Trượt Môn
+### Đoàn Việt Anh 2006
+### Hoàng Nguyên Đức Gay
+### Hà Quang Huy
