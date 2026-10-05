@@ -1,5 +1,2 @@
 Team DB:
-Nguyễn Duy Mạnh
-Đoàn Việt Anh
-Hoàng Nguyên Đức
-Hà Quang Huy
+66B NGUYỄN SI SÁCH phường 15 quận Tân Bình
